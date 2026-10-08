@@ -57,7 +57,7 @@ grade_calculator.py
  
 
 
-Enter the student's name and marks for three subjects when
+Enter the student's name and marks for five subjects when
 prompted.
 
 
